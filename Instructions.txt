@@ -1,0 +1,22 @@
+Instructions for compiling and running the program.
+
+Assume that you have already installed java in your machine and it's working properly.
+
+This Zip file have cacheprogram.java file 
+
+1) Extract that file to the specific folder in computer.
+
+2) Open command prompt and go to that folder directory using cd and cd.. command.
+
+3) Maximize the command prompt so that output looks well arranged.
+
+4) compile the java file using javac cacheprogram.java command.
+
+5) After compiling the program run the program using java cacheprogram command.
+
+6) Follow the command of the program and do read and write operation in the cache and main memory of 16 size.
+
+
+Thanks,
+Jay Patel
+1117051
